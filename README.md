@@ -76,24 +76,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
-  <h3 align="left">My GitHub Stats 📈</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=AranavMahalpure&show_icons=true&theme=light" alt="Aranav Mahalpure's GitHub Stats"/>
-</p>
-<h3 align="left">My Top Languages🗣</h3>
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AranavMahalpure&layout=compact&theme=dark" alt="Top Languages"/>
-</p>
-<h3 align="left">Recent GitHub Activity 🚀</h3>
-<p align="left">
-<a href="https://github.com/AranavMahalpure">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AranavMahalpure&theme=dark" alt="GitHub Streak"/>
-  </a>  
-  <div>
-    
-## 📊 Leetcode streak Stats:
-<img width="450" height="340" src="https://leetcode.card.workers.dev/AranavMahalpure?theme=dark&font=&extension=activity">
-
-## 📊 GFG streak  Stats:
-<img width="450" height="340" src="https://geeks-for-geeks-stats-card.vercel.app/?username=aranav1289">
-</div>
+  
