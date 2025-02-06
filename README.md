@@ -1,4 +1,4 @@
-![Full Stack Developer](https://media.licdn.com/dms/image/D4D12AQG2-3Vm_jyYIw/article-cover_image-shrink_600_2000/0/1693753179836?e=2147483647&v=beta&t=XR0NwEBapgyMfEor_5WiyLKiyQzwoPKtp6EKkXY_zpQ)
+![Full Stack Developer](https://media.geeksforgeeks.org/wp-content/uploads/20240415204701/How-to-Become-a-Python-Full-Stack-Developer.png)
 <h1 align="center">Hi 👋, I'm Satheesh Reddy</h1>
 <h3 align="center">A Passionate Python Developer from India</h3>
 
@@ -20,7 +20,7 @@
 - 📄 Know about my experiences [LinkedIN](https://www.linkedin.com/in/satheesh-reddy2014)
 
 <h3 align="left">Currently, I have started my journey in Data Structures and Algorithms and Competitive Programming. If you want to join, let's connect! 👯</h3>
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.gif?cid=6c09b9525c5td08q9rcva265aip52o30qdwounnh7bsmvfzu&ep=v1_gifs_search&rid=200.gif&ct=g">
+<img align="right" alt="Coding" width="400" src="https://www.vcubesoftsolutions.com/wp-content/uploads/2021/11/PythonFullStackPackage.jpg">
 <h3 align="left">Connect with me ⚡:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/aranavmahalpure" target="_blank" rel="noreferrer">
